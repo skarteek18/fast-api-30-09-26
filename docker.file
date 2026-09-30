@@ -1,0 +1,12 @@
+
+hospital-management/
+│
+├── main.py
+├── models.py
+├── schemas.py
+├── database.py
+├── auth.py
+├── requirements.txt
+├── Dockerfile
+├── .gitignore
+└── README.md
